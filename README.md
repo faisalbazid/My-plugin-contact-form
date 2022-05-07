@@ -1,1 +1,1 @@
-# My-plugin-contact-form
+# shortcode: [simple_contact_form]
